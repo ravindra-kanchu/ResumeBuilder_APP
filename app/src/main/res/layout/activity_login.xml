@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/bb"
     tools:context=".Login">
-    
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="0dp"
